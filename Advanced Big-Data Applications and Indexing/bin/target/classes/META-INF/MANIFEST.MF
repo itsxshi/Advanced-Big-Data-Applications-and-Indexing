@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: imxy
+Build-Jdk: 16.0.2
+Implementation-Title: bigdataclassproject
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/bigdataclassproject
+Created-By: Maven Integration for Eclipse
+
